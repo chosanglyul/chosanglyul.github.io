@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+ICPC 월파에서 서울대학교가 9등 어쩌고
