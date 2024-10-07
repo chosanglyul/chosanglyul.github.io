@@ -215,6 +215,14 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.header-logo-div {
+  margin-bottom: -1rem;
+}
+
+.header-logo-img {
+  max-height: 40px;
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -224,6 +232,12 @@ ul.task-list input[type="checkbox"] {
         display: block;
       }
     }
+  }
+}
+
+@media (max-width: 576px) {
+  .profile {
+    display: none;
   }
 }
 
