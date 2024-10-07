@@ -5,14 +5,12 @@ permalink: /
 subtitle: >
   서울대학교 알고리즘 문제해결 동아리<br>
   <strong>S</strong>eoul <strong>N</strong>ational <strong>U</strong>niversity <strong>P</strong>roblem <strong>S</strong>olving Club
-
 profile:
   image: snups.logo.modified-removebg-preview.png
   image_circular: false
+news: true
 
-
-news: true # includes a list of news items
-# This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below.
+# Karuna is GOAT
 ---
 
 ## 동아리 소개
