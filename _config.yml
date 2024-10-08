@@ -7,8 +7,7 @@ first_name:
 middle_name: 
 last_name: 
 email: snups@snucse.org
-description: > # the ">" symbol means to ignore newlines until "footer_text:"bundle update
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: 서울대학교 알고리즘 문제해결 동아리 SNUPS
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
