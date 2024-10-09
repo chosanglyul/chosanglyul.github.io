@@ -4,6 +4,8 @@
 
 // Typography
 
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+
 p,
 h1,
 h2,
@@ -17,7 +19,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: "Metropolis", "Pretendard", "Sans-serif", Arial, Helvetica, sans-serif;
+  font-family: "Pretendard", sans-serif, Arial, Helvetica;
 }
 
 hr {
