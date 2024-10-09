@@ -11,8 +11,8 @@ permalink: /manual/links/
 
 ## Blogs
 [koosaga님의 블로그](https://koosaga.com/)  
-[Ries 마법의 슈퍼마리오 (kks227)](https://m.blog.naver.com/kks227?categoryName=%EB%8C%80%ED%9A%8C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98&categoryNo=299&tab=1)  
 [JusticeHui가 PS하는 블로그](https://justicehui.github.io/)  
+[Ries 마법의 슈퍼마리오 (kks227)](https://m.blog.naver.com/kks227?categoryName=%EB%8C%80%ED%9A%8C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98&categoryNo=299&tab=1)  
 [Samsung Software Membership 블로그](https://infossm.github.io/)  
 
 ## Online Judges
@@ -23,7 +23,7 @@ permalink: /manual/links/
 [QOJ.ac](https://qoj.ac/)  
 
 ## Well-Known Articles
-**[Unknown-To-Wellknown (github.com/justiceHui)](https://github.com/justiceHui/Unknown-To-Wellknown)**
+**[Unknown-To-Wellknown (github.com/justiceHui)](https://github.com/justiceHui/Unknown-To-Wellknown)**  
 
 **Time Complexity**
 - [Tree Optimization (arnold518.tistory.com)](https://arnold518.tistory.com/103)  
@@ -39,3 +39,7 @@ permalink: /manual/links/
 - [Segment Tree Beats와 Kinetic Segment Tree (koosaga.com)](https://koosaga.com/307)  
 - [A simple introduction to "Segment tree beats" (codeforces.com)](https://codeforces.com/blog/entry/57319)  
 - [Top Tree로 Dynamic Tree 관리하기 (infossm.github.io)](https://infossm.github.io/blog/2021/03/21/toptree/)  
+
+## 기타
+[이란성 쌍둥이](https://kaist.run/)  
+[진짜 유용한 링크](https://youtu.be/oHg5SJYRHA0?si=CzgbD-lxl7IcTnJH)  
