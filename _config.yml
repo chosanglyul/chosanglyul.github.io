@@ -7,7 +7,7 @@ first_name:
 middle_name: 
 last_name: 
 email: snups@snucse.org
-description: 서울대학교 알고리즘 문제해결 동아리 SNUPS
+description: 서울대학교 알고리즘 문제해결 (Problem Solving) 동아리 SNUPS
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
