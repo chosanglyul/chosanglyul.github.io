@@ -17,7 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: "Pretendard", Arial, Helvetica, sans-serif;
+  font-family: "Metropolis", "Pretendard", "Sans-serif", Arial, Helvetica, sans-serif;
 }
 
 hr {
@@ -199,6 +199,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
+    font-family: monospace;
 
     p {
       display: inline-block;
@@ -220,7 +221,11 @@ ul.task-list input[type="checkbox"] {
 }
 
 .header-logo-img {
-  max-height: 40px;
+  width: 71.85px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 @media (min-width: 576px) {
