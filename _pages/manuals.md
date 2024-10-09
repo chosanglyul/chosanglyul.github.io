@@ -1,14 +1,10 @@
 ---
 layout: page
-permalink: /manuals/
-title: 회칙 및 매뉴얼
+title: 매뉴얼
 nav: true
-nav_order: 4
+nav_order: 5
 dropdown: true
 children:
-  - title: "SNUPS 회칙"
-    permalink: /manual/rules/
-  - title: divider
   - title: "SNUPC 운영 매뉴얼"
     permalink: /manual/snupc/
   - title: "ICPC 등록 매뉴얼"

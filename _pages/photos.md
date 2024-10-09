@@ -1,8 +1,6 @@
 ---
 layout: page
 title: 사진첩
-nav: true
-nav_order: 5
 dropdown: true
 children:
   - title: "2024 SNUPC"
