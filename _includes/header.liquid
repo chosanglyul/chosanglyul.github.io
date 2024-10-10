@@ -5,7 +5,7 @@
       {% if page.permalink != '/' %}
         <div class="header-logo-div">
           <a href="{{ site.baseurl }}/">
-            {% assign profile_image_path = 'snups.logo.modified-removebg-preview.png' | prepend: 'assets/img/' %}
+            {% assign profile_image_path = site.logo | prepend: 'assets/img/' %}
             {%
               include figure.liquid loading="eager" path=profile_image_path class='img-fluid rounded header-logo-img'
               cache_bust=true

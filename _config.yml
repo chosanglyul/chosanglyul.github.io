@@ -10,7 +10,8 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: snups, snu, algorithm, club, snucse, seoul national university, computer science, algorithm club
 lang: ko
-icon: favicon.png
+icon: logo/favicon.png
+logo: logo/snups.logo.modified-removebg-preview.png
 apply_link: https://docs.google.com/forms/d/e/1FAIpQLScTiM6gsD_3qm787JN22yBgYU29J9kwmMYQHcYb78PDFRgDPw/viewform?usp=sf_link
 
 url: https://chosanglyul.github.io # the base hostname & protocol for your site
@@ -137,10 +138,10 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
