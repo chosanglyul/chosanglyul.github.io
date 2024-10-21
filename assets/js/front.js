@@ -9,7 +9,7 @@ let eventClickCallback = function(info) {
   info.jsEvent.preventDefault();
   let url = info.event.extendedProps.location;
   if (url) { window.open(url); }
-  else { alert('No location URL provided for this event. Please email to {{ site.email }}'); }
+  else { alert('No location URL provided for this event. Please email to site admin'); }
 }
 
 document.addEventListener('DOMContentLoaded', function() {
