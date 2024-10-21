@@ -13,6 +13,10 @@ lang: ko
 icon: logo/favicon.png
 logo: logo/snups.logo.modified-removebg-preview.png
 apply_link: https://docs.google.com/forms/d/e/1FAIpQLScTiM6gsD_3qm787JN22yBgYU29J9kwmMYQHcYb78PDFRgDPw/viewform?usp=sf_link
+president:
+  name: 조영욱
+  email:
+  phone: 010-5341-5747
 
 url: https://chosanglyul.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
