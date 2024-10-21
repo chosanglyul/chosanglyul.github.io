@@ -4,7 +4,7 @@ title: 홈
 permalink: /
 subtitle: >
   서울대학교 알고리즘 문제해결 동아리<br>
-  <strong>S</strong>eoul <strong>N</strong>ational <strong>U</strong>niversity <strong>P</strong>roblem <strong>S</strong>olving Club
+  <strong>S</strong>eoul <strong>N</strong>ational <strong>U</strong>niversity <strong>P</strong>roblem <strong>S</strong>olvers
 news: true
 images:
   slider: true
