@@ -13,7 +13,7 @@ pretty_table: true
 ---
 
 ## SNUPC 2024 [공지](/snupc2024/) 및 [신청](https://forms.gle/FREhW8k7QWeAQzjs9)
-![SNUPC 2024](/assets/img/poster/snupc2024.jpg){: width="600"}
+![SNUPC 2024](/assets/img/poster/snupc2024.jpg){:style="width:600px; max-width:100%;"}
 
 ---
 
