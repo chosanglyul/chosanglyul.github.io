@@ -10,11 +10,13 @@ pretty_table: true
 ## 개인 대회 수상
 
 <table
-  data-height="460"
+  data-height="880"
   data-pagination="true"
   data-search="true"
-  data-page-list="[10, 25, 50, 100, all]"
+  data-page-size="20"
+  data-page-list="[20, 50, all]"
   data-url="{{ '/assets/json/awards-individual.json' | relative_url }}"
+  data-row-style="rowStyle"
 >
   <thead>
     <tr>
@@ -29,11 +31,13 @@ pretty_table: true
 ## 팀 대회 수상
 
 <table
-  data-height="460"
+  data-height="880"
   data-pagination="true"
   data-search="true"
-  data-page-list="[10, 25, 50, 100, all]"
+  data-page-size="20"
+  data-page-list="[20, 50, all]"
   data-url="{{ '/assets/json/awards-team.json' | relative_url }}"
+  data-row-style="rowStyle"
 >
   <thead>
     <tr>
@@ -43,3 +47,9 @@ pretty_table: true
     </tr>
   </thead>
 </table>
+
+<script>
+  function rowStyle(row, index) {
+    return { css: { padding: "5px 10px" } };
+  }
+</script>
