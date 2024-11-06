@@ -1,9 +1,6 @@
 ---
 layout: page
 title: 후원
-permalink: /sponsor/
-nav: true
-nav_order: 6
 ---
 안녕하세요, 서울대학교 알고리즘 문제해결 동아리 SNUPS입니다.
 
