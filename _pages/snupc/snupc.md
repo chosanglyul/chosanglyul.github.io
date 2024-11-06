@@ -70,4 +70,4 @@ $(document).ready(function() {
 ---
 
 ## 후원 및 문의
-[후원](/sponsor/) 또는 대회에 관한 모든 문의는 [{{ site.email }}](mailto:{{ site.email }})로 메일 부탁드립니다. SNUPC에 대한 관심에 감사드립니다.
+후원 또는 대회에 관한 모든 문의는 [{{ site.email }}](mailto:{{ site.email }})로 메일 부탁드립니다. SNUPC에 대한 관심에 감사드립니다.
