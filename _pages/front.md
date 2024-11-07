@@ -10,6 +10,7 @@ images:
   slider: true
 # Karuna is GOAT
 # TODO insert caption for the images in swiper
+# TODO add images in front-picture-list-old.js
 ---
 
 <span style="font-size:150%">**[지금 가입하기]({{ site.apply_link }})**</span>
