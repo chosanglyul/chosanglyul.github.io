@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://snups.org/sitemap.xml
+Sitemap: https://chosanglyul.github.io/sitemap.xml

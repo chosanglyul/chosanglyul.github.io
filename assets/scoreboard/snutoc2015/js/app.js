@@ -1,1 +1,0 @@
-define(["spotboard","jquery","spotboard.manager"],function(n,a){a.when(n.Manager.loadContest(),n.Manager.loadRuns()).then(n.Manager.initContest)});
